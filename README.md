@@ -1,4 +1,4 @@
-# git-introduction
+# Introduction to Git
 An introduction repository for the Git Introduction demo.
 
 The full presentation can be found on Google Drive:
